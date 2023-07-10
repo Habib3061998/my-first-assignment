@@ -60,3 +60,106 @@ padding: 113px 30px 0px;
     background-color:rgb(0, 0, 0);
 }
 
+/*banner-contianer section*/
+
+
+.banner-container{
+    padding-top: 120px;
+    text-align: center;
+}
+
+
+.banner-title{
+
+    font-size: 3rem;
+}
+
+.banner-title-edit{
+    color: red;
+    
+}
+
+.banner-description{
+    font-size: 19px;
+}
+
+
+
+.banner-box{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    padding-top: 30px;
+}
+
+.box1{
+width: 300px;
+height: 438px;
+background-color: rgb(121, 255, 255);
+border-top-right-radius:300px;
+border-top-left-radius:300px;
+
+}
+
+.box2{
+    width: 300px;
+    height: 438px;
+background-color: rgb(20, 22, 22);
+border-top-right-radius: 300px;
+border-top-left-radius:300px;
+
+    
+}
+
+.box3{
+ width: 300px;
+height: 438px;
+background-color: rgb(174, 196, 196);
+border-top-right-radius:300px;
+border-top-left-radius:300px;
+
+}
+
+
+.box1-logo{
+    width: 270px;
+    height: 350px;
+    margin-top:88px;
+}
+   
+.box2-logo{
+    width: 240px;
+    height:300px;
+    margin-top: 90px;
+    padding-left: 24px;
+}
+   
+.box3-logo{
+
+    width: 240px;
+    height: 320px;
+    margin-top:118px;
+    padding-left: 20px;
+    text-decoration-line: underline;
+}
+
+.box1-text-edit{
+    text-align: center;
+    font-size:15px;
+    text-decoration-line: underline;
+
+}
+
+.box2-text-edit{
+    text-align: center;
+    font-size:15px;
+    padding-top:41px;
+    text-decoration-line: underline;
+}
+
+.box3-text-edit{
+    text-align: center;
+    font-size:15px;
+    padding-bottom :40px;
+    text-decoration-line: underline;
+}
