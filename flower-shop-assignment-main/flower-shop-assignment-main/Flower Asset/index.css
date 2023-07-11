@@ -173,7 +173,7 @@ border-top-left-radius:300px;
     justify-content: center;
     margin-top:129px;
     align-items: center;
-height: 467px;
+    height: 467px;
 
 }
 
@@ -223,3 +223,43 @@ text-align: center;
 margin-left: 80px;
 }
 
+   /*item section 4*/
+
+
+   .content-container{
+   align-items: center;
+   justify-content: center;
+   display:flex;
+   gap: 30px;
+
+     
+   }
+
+   .content-item{
+    text-align: center;
+    
+   }
+
+   .content-title{
+ font-family: Lato;
+font-size: 40px;
+
+   }
+
+.content-dec{
+    font-size: 18px;
+
+}
+
+                                  /*item section 5*/
+
+ .content-container-2{
+    width: 1440px;
+    height: 449px;
+    background-color: black;
+    color: aqua;
+    margin-bottom:30px;
+    margin: 120px auto;
+   text-align: center;
+
+ }
