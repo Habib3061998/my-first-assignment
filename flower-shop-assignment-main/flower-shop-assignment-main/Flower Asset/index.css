@@ -1,5 +1,4 @@
 
-
 .header{
     height: 800px;
     display: flex;
@@ -47,7 +46,7 @@ padding: 113px 30px 0px;
 
 
 .header-btn{
-    padding: 10px;
+    padding: 20px 40px;
     color: aliceblue;
     background-color: rgb(207, 97, 211);
     border-radius:10px;
@@ -163,3 +162,64 @@ border-top-left-radius:300px;
     padding-bottom :40px;
     text-decoration-line: underline;
 }
+
+
+/*item section*/
+
+
+.item-main{
+    display:flex;
+    background-color: rgb(53, 56, 56);
+    justify-content: center;
+    margin-top:129px;
+    align-items: center;
+height: 467px;
+
+}
+
+.item-title{
+    font-size:3rem;
+    color: aliceblue;
+}
+.item-title-edit{
+    color: rgb(255, 0, 0);
+    font-size: 5rem;
+}
+
+.item-edit-1{
+    color: red;
+
+}
+
+.item-dec{
+font-family: Lato;
+font-size: 18px;
+color: aliceblue;
+text-align: center;
+}
+
+
+.item-btn{
+    font-size:15px;
+    padding: 15px 20px ;
+    border:0px;
+    border-radius:6px;
+    background-color: rgb(214, 159, 205);
+    color:white;
+    cursor: pointer;
+    margin-left: 290px;
+   
+
+}
+
+
+.item-btn:hover{
+    background-color: rgb(121, 72, 212);
+}
+
+
+.item-logo-edit{
+
+margin-left: 80px;
+}
+
